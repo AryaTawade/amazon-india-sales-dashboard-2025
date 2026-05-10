@@ -43,8 +43,8 @@ No install step needed. Works in any modern browser.
 
 ```
 amazon-india-sales-dashboard-2025/
-├── amazon_dashboard_2025.html   # Main dashboard (self-contained)
-├── amazon_sales_2025_INR_cleaned.csv  # Source data
+├── amazon_dashboard_2025.html  
+├── amazon_sales_2025_INR_cleaned.csv  
 └── README.md
 ```
 
@@ -58,6 +58,5 @@ amazon-india-sales-dashboard-2025/
 
 Aggregated Amazon India sales data for FY 2025, denominated in Indian Rupees (INR). The CSV contains pre-aggregated report sections including monthly trends, category performance, state-wise sales, customer frequency, payment preferences, and return rates.
 
-## License
 
-MIT
+
